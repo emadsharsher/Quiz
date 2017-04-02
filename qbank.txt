@@ -1,0 +1,30 @@
+What does HTML stand for?
+Hyperlinks and Text Markup Language
+Home Tool Markup Language
+Hyper Text Markup Language
+Hyper  Markup Language
+Hyper Text Markup Language
+Choose the correct HTML tag for the largest heading
+<head>
+<h6>
+<heading>
+<h1>
+<h1>
+What is the preferred way for adding a background color in HTML?
+<body background="yellow">
+<background>yellow</background>
+<body bgcolor="yellow">
+<body style="background-color:yellow;">
+<body bgcolor="yellow">
+Choose the correct HTML tag to make a text bold
+<bold>
+<b>
+<em>
+<i>
+<b>
+which of them is a programming language?
+php
+html
+english
+arabic
+php|html

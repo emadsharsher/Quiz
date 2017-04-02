@@ -1,0 +1,9 @@
+name : jitu
+password : 12345
+type : admin
+name : user1
+password : 123
+type : user
+name : user2
+password : 123
+type : user
